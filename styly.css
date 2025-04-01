@@ -1,0 +1,33 @@
+.kontejner-flex{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+    }
+
+
+    #bum{
+        text-align: center;
+        font-family:'Times New Roman', Times, serif; 
+        background-color: rgb(192, 192, 192);
+    }
+
+    .karta{
+        background-color: rgb(192, 192, 192);
+        margin: 40px; 
+        border-radius: 20px; 
+        width: 350px;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .karta img{
+        width: 340px;
+        border-radius: 10PX;
+        margin: 1px; 
+        }
+    
+
+    #popis{
+        text-align: center;
+
+        }
